@@ -1,3 +1,5 @@
+![The output of the compiler is the output that the input program should produce. ](./Compiler.png)
+
 Grammar for the Project
 
 program → var section body inputs
