@@ -1,0 +1,12 @@
+---
+:id: 170765905
+:submitters:
+- :name: Salvador Gomez
+  :email: sgomez47@asu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-03-25 09:16:22.294959000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-03-25 02:16:22.294959000 Z
+:status: processed
+:score: 100.0
